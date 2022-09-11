@@ -14,6 +14,7 @@ module.exports = {
     new miniCssExtractPlugin(),
     new purgeCSSPlugin({
       paths: glob.sync(`${PATHS.dist}/**/*`,  { nodir: true }),
+      // Fix navbar dropdown bootstrap
       safelist: [/show/]
     }),
   ],
