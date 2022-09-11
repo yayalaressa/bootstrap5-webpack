@@ -16,5 +16,5 @@ Pastikan sudah menginstall `git`, `nodejs`, dan `npm`
 5. Untuk build `npm run build`
 
 # Reference
-https://getbootstrap.com/docs/5.2/getting-started/webpack/#setup
-https://purgecss.com/plugins/webpack.html
+- https://getbootstrap.com/docs/5.2/getting-started/webpack/#setup
+- https://purgecss.com/plugins/webpack.html
