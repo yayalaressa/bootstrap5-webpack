@@ -1,0 +1,9 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+
+// Add additional custom code here
+.alpha { color: $purple; }
+.beta {
+  color: $yellow-300;
+  background-color: $indigo-200;
+}
