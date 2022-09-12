@@ -14,3 +14,7 @@ Pastikan sudah menginstall `git`, `nodejs`, dan `npm`
   - Additional plugins `npm i --save-dev autoprefixer css-loader postcss-loader sass sass-loader style-loader`
 4. Selanjutnya `npm start`
 5. Untuk build `npm run build`
+
+# Reference
+- https://getbootstrap.com/docs/5.2/getting-started/webpack/#setup
+- https://purgecss.com/plugins/webpack.html

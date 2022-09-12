@@ -67,7 +67,6 @@ const myPlugins = {
     new miniCssExtractPlugin(),
     new purgeCSSPlugin({
       paths: glob.sync(`${PATHS.dist}/**/*`,  { nodir: true }),
-      // Fix dropdown navbar bootstrap 5
       safelist: [/show/]
     }),
   ],
