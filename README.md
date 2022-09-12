@@ -8,7 +8,7 @@ Pastikan sudah menginstall `git`, `nodejs`, dan `npm`
 2. Masuk ke path `cd bootstrap5-webpack`
 3. Install `node_module` yang diperlukan;
   - Webpack `npm i --save-dev webpack webpack-cli webpack-dev-server`
-  - Bootstrap dan PopperJS `npm i --save bootstrap @popperjs/core`
+  - Bootstrap dan PopperJS `npm i --save bootstrap@v5.2.1 @popperjs/core`
   - MiniCSS Extractor `npm install --save-dev mini-css-extract-plugin`
   - PurgeCSS `npm i purgecss-webpack-plugin -D`
   - Additional plugins `npm i --save-dev autoprefixer css-loader postcss-loader sass sass-loader style-loader`
